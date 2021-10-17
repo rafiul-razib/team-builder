@@ -10,15 +10,16 @@ const CoderCard = (props) => {
     return (
         <div className="col">
             <div className="card h-100">
-            <img src={img} className="card-img-top card-img" alt="..."/>
-            <div className="card-body">
+            <img src={img} className="coder-img" alt="..."/>
+            <div className="card-body text-center">
                 <h5 className="card-title">{name}</h5>
                 <h6>Age: {age}</h6>
-                <h5>Country: {country}</h5>
-                <p className="card-text">{expertise}</p>
-                <p>Salary: ${salary}</p>
+                <p>From <small>{country}</small></p>
+                <p className="card-text"><small>{expertise}</small></p>
+                
             </div>
-                <button onClick={()=>props.handleAddToCart(props.coder)} className="btn btn-info"><FontAwesomeIcon icon={faUserPlus} />Add to team</button>
+                <h6>Salary: ${salary}</h6>
+                <button onClick={()=>props.handleAddToCart(props.coder)} className="btn btn-dark"><FontAwesomeIcon icon={faUserPlus} />Add to team</button>
             </div>
         </div>
     );
