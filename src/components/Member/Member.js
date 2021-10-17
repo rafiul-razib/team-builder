@@ -5,10 +5,10 @@ const Member = (props) => {
     const {name, img} = props.member
     return (
         <div>
-            <div className="card mb-3" style={{"maxWidth": "540px", "height":"100px"}}>
+            <div className="card mb-3" style={{"maxWidth": "540px", "height":"120px"}}>
             <div className="row g-0">
                 <div className="col-md-5">
-                <img src={img} className="img-fluid rounded-start member" alt="..."/>
+                <img src={img} className="img-fluid rounded member" alt="..."/>
                 </div>
                 <div className="col-md-7">
                 <div className="card-body d-flex align-items-center justify-content-center">

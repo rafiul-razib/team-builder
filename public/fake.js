@@ -6,7 +6,7 @@ const coders = [
         age: 24,
         country: "Dhaka, Bangladesh",
         salary: 1050,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Henry-Cavill-232x300.jpg"
     },
     {
         key: 2,
@@ -15,7 +15,8 @@ const coders = [
         age: 27,
         country: "Jessore, Bangladesh",
         salary: 1250,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Zac-Efron-239x300.jpg"
+    },    
     {
         key:3,
         name: "Intisar Muhib",
@@ -23,7 +24,7 @@ const coders = [
         age: 26,
         country: "Barishal, Bangladesh",
         salary: 850,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Jason-Momoa-229x300.jpg"
     },
     {
         key: 4,
@@ -32,7 +33,7 @@ const coders = [
         age: 26,
         country: "Mymensingh,Bangladesh",
         salary: 850,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Tom-Cruise-200x300.jpg"
     },
     {
         key: 5,
@@ -41,7 +42,7 @@ const coders = [
         age: 26,
         country: "Mymensingh,Bangladesh",
         salary: 1850,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Orlando-Bloom-224x300.jpg"
     },
     {
         key: 6,
@@ -50,7 +51,7 @@ const coders = [
         age: 32,
         country: "Dhaka,Bangladesh",
         salary: 750,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Shemar-Moore-231x300.jpg"
     },
     {
         key: 7,
@@ -59,7 +60,8 @@ const coders = [
         age: 26,
         country: "Dhaka,Bangladesh",
         salary: 950,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Ian-Somerhalder-215x300.jpg"
+    },    
     {
         key: 8,
         name: "Jisun Bari",
@@ -67,7 +69,7 @@ const coders = [
         age: 29,
         country: "Dhaka,Bangladesh",
         salary: 2050,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Armie-Hammer-225x300.jpg"
     },
     {
         key: 9,
@@ -76,6 +78,6 @@ const coders = [
         age: 30,
         country: "Dhaka,Bangladesh",
         salary: 2150,
-        img: "https://icon-library.com/images/coder-icon/coder-icon-6.jpg"
+        img: "https://www.readsme.com/wp-content/uploads/2021/01/Chris-Hemsworth.jpg"
     }
 ]
